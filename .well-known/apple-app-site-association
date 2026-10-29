@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "YYVJMB26A3.com.jhjones424.flopshot",
+          "YYVJMB26A3.com.jhjones424.flopshot.beta",
+          "YYVJMB26A3.com.jhjones424.flopshot.dev"
+        ],
+        "components": [
+          { "/": "/flopshot-legal/add", "comment": "FlopShot add-a-friend links" },
+          { "/": "/flopshot-legal/add.html", "comment": "FlopShot add-a-friend links" }
+        ]
+      }
+    ]
+  }
+}
